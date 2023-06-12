@@ -10,11 +10,9 @@ Add the "ColorfulHierarchy" component to a gameObject.
 **Text Color
 Test Style
 Background Color** - Set the object's text color in the hierarchy.
-
 **Text Color
 Test Style
 Background Color** - Set the Font style (Bold, Italic, Etc...).
-
 **Text Color
 Test Style
 Background Color** - Set the object's background color in the hierarchy.
