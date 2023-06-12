@@ -2,6 +2,7 @@
 Color game objects in the Hierarchy window
 
 **How to use**:
+
 Add the "ColorfulHierarchy" component to a gameObject.
 
 ![Example](https://github.com/neveBr/ColorfulHierarchy/assets/66878140/c007ecea-e3e7-4fa2-8804-60df4374d3f5)
@@ -9,9 +10,11 @@ Add the "ColorfulHierarchy" component to a gameObject.
 **Text Color
 Test Style
 Background Color** - Set the object's text color in the hierarchy.
+
 **Text Color
 Test Style
 Background Color** - Set the Font style (Bold, Italic, Etc...).
+
 **Text Color
 Test Style
 Background Color** - Set the object's background color in the hierarchy.
