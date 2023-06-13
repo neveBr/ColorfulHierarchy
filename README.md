@@ -1,5 +1,5 @@
 # ColorfulHierarchy
-Color game objects in the Hierarchy window
+Assign custom colors to game objects' text in the Hierarchy window.
 
 ![ColorfulHierarchyExample](https://github.com/neveBr/ColorfulHierarchy/assets/66878140/6867144a-f6ce-4816-920e-f2625c81f64d)
 
