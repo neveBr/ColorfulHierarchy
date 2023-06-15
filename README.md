@@ -5,6 +5,9 @@ Assign custom colors to game objects' text in the Hierarchy window.
 
 
 # How To Use
+
+VideoTutorial - https://youtu.be/FDfHcuikXjk
+
 Add the "ColorfulHierarchy" component to a gameObject.
 
 ![Example](https://github.com/neveBr/ColorfulHierarchy/assets/66878140/c007ecea-e3e7-4fa2-8804-60df4374d3f5)
